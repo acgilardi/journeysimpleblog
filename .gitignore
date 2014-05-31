@@ -1,4 +1,4 @@
-gnore everything first:
+#Ignore everything first
 /*
 
 # Then un-ignore the following:
@@ -24,3 +24,5 @@ content/themes/yourtheme/*
 !/content/themes/yourtheme/
 
 !/content/themes/yourtheme/*
+
+node_modules/*
