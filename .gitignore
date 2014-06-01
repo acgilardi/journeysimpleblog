@@ -20,9 +20,9 @@ content/*
 content/themes/*
 !/content/themes/
 
-content/themes/yourtheme/*
-!/content/themes/yourtheme/
+content/themes/froyo-ghost-theme/*
+!/content/themes/froyo-ghost-theme/
+!/content/themes/froyo-ghost-theme/*
 
-!/content/themes/yourtheme/*
-
+# ---- Node Modules ----
 node_modules/*
